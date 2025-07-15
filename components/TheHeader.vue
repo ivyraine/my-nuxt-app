@@ -1,6 +1,9 @@
 <template>
   <nav>
-    <div class="logo"> TEST TEST</div>
+    <div class="logo">
+      <a><NuxtLink to="/">TEST TEST</NuxtLink></a>
+    </div>
+
     <div class="header">
       <a><NuxtLink to="/">首頁</NuxtLink></a>
       <a><NuxtLink to="/about">關於我們</NuxtLink></a>
@@ -23,6 +26,7 @@ nav {
 }
 
 .logo {
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 24px;
 }

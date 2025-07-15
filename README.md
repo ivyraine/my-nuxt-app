@@ -73,3 +73,10 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+<!-- ## 建立docker
+
+ 1. 新增 Dockerfile 和 .dockerignore 檔案
+ 2. docker build -t XXXX . -->
+

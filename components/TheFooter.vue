@@ -9,7 +9,7 @@
 
 .footer {
   height: 20px;
-  margin: 20px;
+  /* margin: 20px; */
 }
 
 .footer p {
